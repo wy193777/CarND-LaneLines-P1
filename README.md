@@ -4,7 +4,7 @@
 
 [//]: # (Image References)
 
-[image1]: /home/shenghan/CarND-LaneLines-P1/test_images_output/solidWhiteCurve.png?raw=true "Two Line"
+[image1]: ./test_images_output/solidWhiteCurve.png "Two Line"
 
 ---
 
